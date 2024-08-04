@@ -1,0 +1,75 @@
+body{
+    background: #a33141;
+    font: 12pt Georgia;
+    color: #f8f3f3;
+    margin: 0;
+    padding: 0;
+  }
+  /* test colou */
+  a{
+    color: #f2efef;
+    text-decoration: none;
+  }
+  
+  #footer{
+    margin-bottom: -150px;
+    clear: both;
+  }
+  /* footer head bgc */
+  .tomottoWrap{
+    position: relative;
+    background: #c3e4e4;
+  }
+  
+  #tomotto{
+    text-align: center;
+    width: 960px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    line-height: 36px;
+    margin: auto;
+  }
+  /* table bgc */
+  .lookWrap{
+    position: relative; 
+    background-color: #631825;
+    float: left;
+    width: 100%;
+    text-align:center;
+  }
+  
+  #look{
+    margin: auto;
+    width: 700px;
+  }
+  
+  .section{
+    overflow: hidden;
+    float: left;
+    display: inline;
+    width: 160px;
+    margin: 0 15px 15px 0;
+    font: 10pt verdana;
+    line-height: 2.6em;
+  }
+  /* table heading textc */
+  .section h3{
+    font-weight: normal;
+    font: 12pt Georgia;
+    text-transform: uppercase;
+    color: #f0eaea;
+  }
+  
+  .section a{
+    display: block;
+  }
+  
+  .legality{
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    clear: both;
+    font: 10pt verdana;
+    line-height: 2em;
+    padding: 40px 0 0 0;
+  }
